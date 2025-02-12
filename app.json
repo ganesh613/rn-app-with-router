@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "rn-app-with-router",
+    "slug": "rn-app-with-router"
+  }
+}
